@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bruce081018
+- 👋 Hi, I’m Bruce Ding
 - 👀 I’m interested in computer science
 - 📫 How to reach me? bruce081018@qq.com
 
